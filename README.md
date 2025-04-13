@@ -1,4 +1,6 @@
-# 👩‍💻 Gladys Maria Pangga — Data Analytics & Bioinformatics Projects
+# 👩‍💻 Gladys Maria Pangga
+
+## Data Analytics & Bioinformatics Projects
 
 Welcome to my personal project portfolio! This repository showcases a variety of my work in data science, bioinformatics, epidemiology, and analytics — drawing from my academic research, industry experience, and self-driven projects.
 
