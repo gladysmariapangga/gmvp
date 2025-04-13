@@ -9,7 +9,7 @@ Welcome to my personal project portfolio! This repository showcases a variety of
 ### 🚲 Cyclistic Bike-Share Case Study
 **Goal**: Analyze user behavior to help convert casual riders into annual members.  
 **Tools**: R (dplyr, ggplot2), Tableau  
-📁 [View Project Folder](https://github.com/gladysmariapangga/gmvp/tree/main/Proj%201%20Cyclistic%20)
+📁 [View Project Folder](https://github.com/gladysmariapangga/gmvp/tree/main/Proj%201%20Cyclistic%20)    
 📄 [Final Report](./cyclistic_case_study/Cyclistic_Report.pdf)
 
 ---
