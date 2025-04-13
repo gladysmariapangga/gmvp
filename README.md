@@ -10,7 +10,7 @@ Welcome to my personal project portfolio! This repository showcases a variety of
 **Goal**: Analyze user behavior to help convert casual riders into annual members.  
 **Tools**: R (dplyr, ggplot2), Tableau  
 📁 [View Project Folder](https://github.com/gladysmariapangga/gmvp/tree/main/Proj%201%20Cyclistic%20)    
-📄 [Final Report](./cyclistic_case_study/Cyclistic_Report.pdf)
+📄 [Final Report](https://github.com/gladysmariapangga/gmvp/blob/main/Proj%201%20Cyclistic%20/00%20Project%20report.pdf)
 
 ---
 
@@ -20,17 +20,17 @@ Welcome to my personal project portfolio! This repository showcases a variety of
 
 ---
 
-### 🧬 Gut Microbiome Explorer *(In Progress)*
+### 🧬 Gut Microbiome Zoonoses Explorer *(In Progress)*
 **Goal**: Visualize and interpret gut microbiota data from different chicken populations.  
-**Tools**: R, phyloseq, microbiome sequencing data  
+**Tools**: R, AI
 
 ---
 
 ## 🧰 Tools & Technologies
 
 - **Languages**: R, Python, SQL  
-- **Visualization**: Tableau, ggplot2, seaborn  
-- **Bioinformatics**: QIIME2, Phyloseq, DIABLO (mixOmics)  
+- **Visualization**: Tableau, ggplot2
+- **Bioinformatics**: Phyloseq, DIABLO (mixOmics)  
 - **Machine Learning**: Random Forest, logistic regression, clustering  
 
 ---
@@ -39,8 +39,8 @@ Welcome to my personal project portfolio! This repository showcases a variety of
 
 Hi! I’m Gladys, a PhD researcher with a background in veterinary medicine, food science, and One Health. I’m passionate about data-driven solutions in health, agriculture, and beyond.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/gladysmariapangga)  
-📫 
+🔗 [LinkedIn](https://www.linkedin.com/in/gmvpangga)  
+📫 gladys-maria.pangga@lshtm.ac.uk
 
 ---
 
