@@ -42,7 +42,7 @@ Welcome to my personal project portfolio! This repository showcases a variety of
 Hi! I’m Gladys, a PhD researcher with a background in veterinary medicine, food science, and One Health. I’m passionate about data-driven solutions in health, agriculture, and beyond.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/gmvpangga)  
-📫 [Email](gladys-maria.pangga@lshtm.ac.uk)
+📫 [Academic Email](gladys-maria.pangga@lshtm.ac.uk)
 
 ---
 
