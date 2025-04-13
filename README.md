@@ -49,4 +49,4 @@ Hi! I’m Gladys, a PhD researcher with a background in veterinary medicine, foo
 ## 📎 Licensing & Data Sources
 
 - Cyclistic case study is based on public Divvy data provided by Motivate International Inc.
-- Other projects use simulated or anonymized research datasets where applicable.
+- Other projects use company owned or anonymised research datasets where applicable.
