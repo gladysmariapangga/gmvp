@@ -10,7 +10,7 @@ Welcome to my personal project portfolio! This repository showcases a variety of
 **Goal**: Analyze user behavior to help convert casual riders into annual members.  
 **Tools**: R (dplyr, ggplot2), Tableau  
 📁 [View Project Folder](https://github.com/gladysmariapangga/gmvp/tree/main/Cyclistic_Project)        
-📄 [Final Report](https://github.com/gladysmariapangga/gmvp/blob/main/Proj%201%20Cyclistic%20/00%20Project%20report.pdf)
+📄 [Final Report](https://github.com/gladysmariapangga/gmvp/blob/main/Cyclistic_Project/00%20Project%20report.pdf)
 
 ---
 
